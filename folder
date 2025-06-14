@@ -1,0 +1,17 @@
+LibraryManagementSystem/
+│
+├── README.md                  ← Project description (use the one I gave)
+│
+├── MainApp.java               ← Main class with `main()` method
+├── Book.java                  ← Book model class
+├── User.java                  ← User model class
+├── LibraryManager.java        ← Manages book-related operations
+├── LoginManager.java          ← Handles secure login
+│
+├── MainApp.class              ← Compiled .class files (auto-generated)
+├── Book.class
+├── User.class
+├── LibraryManager.class
+├── LoginManager.class
+│
+└── (optional) data/           ← Future: can store user/book data as files
